@@ -1,0 +1,101 @@
+Age,Family_History,Lump_Duration_Months,Pain,Breast_Density,Mass_Size_cm,Mass_Shape,Mass_Margins,Calcifications,Echotexture,Lymph_Node_Size_cm,Tumor_Type,Tumor_Grade,ER_Status,PR_Status,HER2_Status,Ki67_Index,Cancer_Stage
+68,0,10,None,B,0.61,Irregular,Smooth,0,Complex,2.36,ILC,2,71,90,Negative,43,Stage II B
+58,1,7,Mild,C,4.83,Oval,Spiculated,0,Hypoechoic,1.58,Benign,1,53,39,Negative,24,Stage IV
+44,0,9,None,C,4.26,Irregular,Spiculated,0,Cystic,0.82,Benign,1,66,97,Positive,9,Stage II B
+72,1,7,Mild,B,3.63,Round,Smooth,1,Cystic,1.21,IDC,2,50,11,Positive,5,Stage II B
+37,1,1,None,B,2.34,Round,Lobulated,1,Cystic,1.41,IDC,1,96,52,Positive,34,Stage II B
+50,1,1,None,B,1.28,Irregular,Spiculated,0,Hypoechoic,2.11,ILC,3,91,70,Negative,7,Stage III
+68,0,9,Moderate,A,1.2,Round,Smooth,0,Complex,1.93,Benign,3,7,9,Positive,49,Stage III
+48,0,11,Moderate,D,1.63,Irregular,Smooth,1,Hypoechoic,1.39,Benign,1,33,44,Negative,18,Stage II B
+52,0,9,None,A,2.97,Round,Lobulated,1,Complex,2.97,IDC,2,34,16,Negative,34,Stage III
+40,0,4,None,A,3.72,Round,Spiculated,1,Cystic,2.01,ILC,3,95,25,Positive,8,Stage II A
+40,1,9,Moderate,C,3.47,Irregular,Spiculated,1,Cystic,1.09,IDC,2,87,84,Negative,22,Stage II A
+53,0,3,Moderate,B,1.76,Round,Smooth,0,Hypoechoic,0.75,IDC,2,77,91,Positive,41,Stage II A
+65,0,7,Moderate,D,4.8,Irregular,Smooth,1,Hypoechoic,0.88,IDC,3,31,61,Positive,29,Stage II A
+69,0,6,Mild,C,3.82,Round,Lobulated,0,Complex,1.11,IDC,2,45,45,Positive,5,Stage II A
+53,0,8,None,A,2.99,Round,Lobulated,1,Complex,0.9,Benign,3,15,63,Positive,19,Stage IV
+32,0,11,Moderate,B,3.25,Oval,Spiculated,1,Hypoechoic,0.97,Benign,2,67,1,Positive,13,Stage I
+51,1,9,None,C,2.39,Oval,Spiculated,1,Complex,1.21,IDC,3,36,53,Negative,19,Stage II B
+31,0,5,Mild,B,1.61,Irregular,Smooth,1,Hypoechoic,0.93,ILC,1,53,64,Negative,28,Stage II A
+53,1,1,Mild,C,2.1,Oval,Spiculated,1,Complex,2.74,ILC,3,84,50,Negative,8,Stage III
+73,0,3,Moderate,B,3.91,Irregular,Lobulated,0,Hypoechoic,0.7,ILC,3,13,52,Positive,16,Stage IV
+59,1,10,Mild,A,0.56,Oval,Lobulated,0,Hypoechoic,1.81,ILC,3,94,35,Positive,41,Stage II A
+67,0,8,None,D,1.02,Round,Smooth,1,Hypoechoic,1.53,IDC,3,54,25,Positive,41,Stage III
+31,0,11,Moderate,A,0.71,Irregular,Lobulated,1,Complex,2.96,Benign,2,47,28,Negative,47,Stage I
+50,1,6,None,D,0.68,Irregular,Lobulated,0,Complex,0.78,ILC,1,81,20,Positive,10,Stage III
+62,1,8,None,B,4.35,Round,Lobulated,1,Complex,1.49,IDC,3,6,10,Negative,43,Stage II A
+41,1,9,Mild,C,3.67,Irregular,Lobulated,1,Hypoechoic,2.92,ILC,2,73,39,Negative,28,Stage IV
+51,0,4,Mild,A,2.63,Irregular,Smooth,0,Complex,2.66,ILC,1,6,10,Positive,15,Stage I
+73,1,1,Mild,D,0.94,Oval,Smooth,1,Complex,2.54,IDC,1,32,35,Positive,17,Stage II B
+54,0,1,Mild,A,2.71,Irregular,Spiculated,1,Hypoechoic,1.14,Benign,1,22,58,Negative,38,Stage III
+78,0,10,Mild,D,2.63,Round,Lobulated,0,Cystic,0.93,Benign,1,84,38,Positive,29,Stage II A
+56,1,4,Moderate,A,1.28,Oval,Spiculated,0,Hypoechoic,2.17,IDC,3,18,98,Negative,11,Stage II A
+71,1,7,None,D,2.45,Oval,Smooth,0,Complex,2.82,Benign,3,18,53,Positive,8,Stage I
+57,0,2,None,D,2.29,Round,Smooth,1,Hypoechoic,1.89,IDC,2,35,97,Positive,12,Stage II A
+45,0,3,None,B,3.27,Round,Smooth,0,Cystic,1.93,IDC,2,28,54,Negative,24,Stage II B
+44,1,1,None,D,3.36,Oval,Smooth,0,Hypoechoic,1.2,IDC,2,59,23,Positive,33,Stage I
+76,1,5,Mild,B,0.7,Irregular,Smooth,0,Complex,2.42,Benign,1,81,21,Negative,49,Stage II A
+73,1,1,None,D,2.19,Oval,Smooth,0,Cystic,0.97,IDC,1,1,68,Positive,14,Stage I
+32,0,8,Moderate,C,3.32,Round,Smooth,0,Complex,1.31,ILC,3,0,55,Negative,47,Stage III
+66,0,1,Moderate,C,2.76,Oval,Lobulated,0,Cystic,1.56,Benign,1,46,32,Negative,38,Stage I
+36,0,11,None,C,4.35,Round,Spiculated,1,Cystic,1.77,Benign,1,68,35,Positive,30,Stage II A
+50,0,1,None,D,3.46,Oval,Smooth,1,Hypoechoic,1.11,Benign,1,19,19,Negative,45,Stage I
+38,0,2,Moderate,B,1.23,Irregular,Lobulated,0,Hypoechoic,0.79,Benign,2,10,82,Positive,7,Stage II A
+68,0,2,Moderate,B,0.82,Oval,Lobulated,0,Complex,2.03,ILC,2,1,98,Positive,10,Stage III
+47,1,6,Mild,D,3.39,Oval,Spiculated,0,Hypoechoic,1.22,Benign,3,66,80,Positive,9,Stage II A
+33,0,7,Moderate,C,0.62,Round,Smooth,1,Hypoechoic,1.95,Benign,1,86,61,Negative,9,Stage II A
+54,0,5,Mild,C,3.14,Round,Spiculated,1,Cystic,0.89,IDC,1,11,97,Negative,27,Stage III
+43,0,1,Mild,B,4.73,Round,Smooth,1,Hypoechoic,1.7,Benign,3,19,72,Positive,13,Stage III
+79,1,1,Mild,C,3.09,Oval,Lobulated,1,Cystic,1.83,ILC,1,4,25,Positive,39,Stage II A
+38,0,3,Mild,A,2.25,Irregular,Lobulated,1,Cystic,0.63,ILC,1,36,65,Negative,24,Stage III
+55,0,2,Mild,B,3.39,Round,Lobulated,1,Cystic,1.34,ILC,2,37,72,Positive,46,Stage IV
+31,1,5,None,C,2.56,Round,Lobulated,1,Complex,0.84,ILC,3,93,72,Positive,39,Stage II A
+49,0,10,Moderate,B,2.96,Oval,Spiculated,1,Complex,0.66,Benign,3,8,39,Negative,22,Stage III
+57,0,6,Mild,A,4.74,Round,Smooth,1,Complex,2.97,Benign,3,97,16,Positive,21,Stage III
+76,0,7,Moderate,B,2.24,Irregular,Smooth,0,Cystic,1.31,ILC,3,52,0,Negative,28,Stage II A
+36,0,4,Moderate,B,4.83,Irregular,Spiculated,0,Complex,2.52,ILC,2,43,88,Positive,7,Stage I
+73,0,7,Mild,B,4.57,Round,Smooth,0,Complex,1.14,Benign,2,98,60,Negative,36,Stage I
+37,1,11,None,B,1.38,Round,Lobulated,0,Hypoechoic,2.2,ILC,1,85,42,Positive,39,Stage III
+76,1,8,Mild,A,0.81,Oval,Smooth,1,Complex,2.4,IDC,1,23,41,Positive,42,Stage IV
+64,1,11,None,D,0.95,Irregular,Lobulated,1,Complex,1.99,ILC,1,80,24,Negative,17,Stage II B
+43,0,1,Moderate,B,0.58,Irregular,Spiculated,0,Cystic,1.68,ILC,1,73,38,Positive,29,Stage II A
+46,0,6,None,B,0.92,Round,Smooth,1,Cystic,1.53,IDC,2,29,34,Negative,13,Stage II B
+65,0,8,None,C,3.57,Oval,Spiculated,0,Cystic,1.37,IDC,3,58,2,Positive,8,Stage II B
+79,1,5,None,B,0.82,Irregular,Smooth,1,Cystic,2.82,Benign,2,86,43,Negative,18,Stage II A
+69,0,4,Moderate,C,1.94,Irregular,Lobulated,0,Cystic,2.58,Benign,1,95,50,Negative,41,Stage I
+33,0,2,Moderate,D,4.3,Oval,Spiculated,1,Cystic,2.91,IDC,2,80,93,Negative,38,Stage III
+31,1,6,None,A,0.6,Oval,Smooth,1,Complex,0.81,IDC,3,80,97,Negative,15,Stage II A
+35,0,6,None,A,4.17,Irregular,Lobulated,0,Cystic,2.33,Benign,3,13,11,Positive,45,Stage III
+71,1,11,Mild,D,1.77,Irregular,Spiculated,1,Cystic,2.85,ILC,2,8,18,Positive,7,Stage II A
+33,1,1,None,A,1.03,Oval,Spiculated,0,Hypoechoic,0.95,IDC,2,39,43,Negative,32,Stage I
+58,1,9,Mild,D,3.64,Irregular,Smooth,0,Complex,0.67,Benign,2,65,58,Negative,33,Stage II A
+47,0,11,None,D,3.33,Round,Smooth,0,Complex,2.35,ILC,1,24,48,Negative,13,Stage II A
+55,0,6,Mild,D,4.45,Round,Smooth,0,Complex,1.94,IDC,2,72,60,Positive,7,Stage IV
+73,0,3,Moderate,A,3.81,Oval,Lobulated,1,Cystic,2.6,ILC,2,21,16,Positive,29,Stage I
+63,0,4,None,C,4.12,Oval,Smooth,1,Cystic,0.85,Benign,2,3,73,Positive,38,Stage III
+39,0,11,None,D,1.77,Oval,Spiculated,1,Cystic,2.49,IDC,3,25,56,Positive,16,Stage II B
+65,0,4,None,B,1.3,Round,Spiculated,0,Hypoechoic,1.0,ILC,3,57,54,Negative,46,Stage III
+43,0,3,None,A,3.88,Irregular,Smooth,1,Cystic,0.91,IDC,1,28,46,Negative,13,Stage II A
+60,1,10,Mild,D,4.13,Round,Smooth,0,Hypoechoic,0.91,ILC,1,97,11,Negative,19,Stage III
+77,0,3,None,D,4.96,Irregular,Spiculated,1,Complex,2.54,Benign,3,86,61,Positive,44,Stage III
+44,1,3,Moderate,B,2.36,Round,Lobulated,1,Cystic,2.16,Benign,3,36,79,Positive,29,Stage II A
+37,0,4,Moderate,C,2.17,Irregular,Smooth,1,Hypoechoic,1.81,IDC,3,74,87,Positive,9,Stage I
+43,0,7,None,C,3.99,Round,Smooth,0,Hypoechoic,1.4,ILC,2,69,82,Negative,15,Stage III
+52,0,4,Moderate,C,2.03,Oval,Spiculated,1,Cystic,2.69,IDC,2,17,7,Negative,38,Stage IV
+69,1,9,None,D,4.69,Round,Smooth,1,Complex,1.48,IDC,3,84,94,Positive,28,Stage I
+50,1,1,None,D,4.36,Irregular,Lobulated,0,Complex,2.54,ILC,2,41,20,Negative,19,Stage III
+45,1,8,Moderate,D,2.43,Round,Spiculated,1,Complex,1.6,ILC,2,99,80,Positive,42,Stage IV
+74,1,7,None,A,3.88,Round,Smooth,0,Hypoechoic,1.44,ILC,1,40,86,Positive,12,Stage III
+47,0,2,Moderate,B,3.9,Round,Spiculated,1,Hypoechoic,1.66,Benign,3,37,79,Negative,9,Stage IV
+76,1,8,Mild,D,0.96,Oval,Smooth,0,Hypoechoic,1.25,IDC,3,33,69,Positive,30,Stage III
+53,0,1,None,B,4.56,Round,Smooth,0,Hypoechoic,2.37,IDC,2,16,71,Negative,22,Stage II A
+55,0,11,Mild,B,2.77,Oval,Smooth,1,Complex,1.76,Benign,3,36,24,Positive,10,Stage II A
+54,1,9,Moderate,C,4.22,Oval,Lobulated,0,Cystic,1.08,ILC,1,24,81,Negative,41,Stage II A
+74,1,9,Mild,A,1.94,Round,Lobulated,0,Hypoechoic,2.75,Benign,1,75,88,Negative,17,Stage III
+70,1,2,Mild,D,4.53,Round,Spiculated,0,Hypoechoic,1.46,Benign,1,86,11,Negative,32,Stage III
+58,1,7,Moderate,C,2.25,Round,Smooth,0,Complex,1.86,Benign,3,85,14,Positive,9,Stage II A
+44,1,10,Mild,C,0.55,Irregular,Smooth,0,Cystic,2.77,IDC,3,84,58,Positive,17,Stage III
+74,1,3,Mild,D,4.57,Round,Lobulated,0,Cystic,2.06,Benign,3,26,25,Negative,21,Stage III
+30,1,7,Moderate,B,0.91,Oval,Smooth,1,Complex,0.79,IDC,3,56,25,Negative,44,Stage II B
+54,1,10,Mild,C,1.94,Round,Lobulated,0,Complex,2.85,IDC,3,30,46,Positive,49,Stage II A
+36,0,9,Moderate,B,4.78,Irregular,Smooth,0,Cystic,2.07,IDC,1,5,31,Positive,36,Stage II B
